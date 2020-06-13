@@ -1,0 +1,7 @@
+https://dev.to/roggc/graphql-and-firebase-20oh
+
+this was deployed successfully : https://us-central1-nodejsjsonapi.cloudfunctions.net/api1
+
+
+all deployment code inside functions folder
+
